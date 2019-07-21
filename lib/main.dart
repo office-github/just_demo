@@ -47,7 +47,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 final GlobalKey<ScaffoldState> _scaffoldKey = new GlobalKey<ScaffoldState>();
-
+//comment added
   void _incrementCounter() {
     setState(() {
       // This call to setState tells the Flutter framework that something has
